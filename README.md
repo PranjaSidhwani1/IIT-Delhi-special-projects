@@ -10,5 +10,5 @@ LSTM, RNN, Word embedding, One hot encoding
 Heaps, mapping, constructive algorithm
 ## Maps Search Nearby-
 2d Range trees, Avl trees
-## Pyhton Compiler-
+## Python Compiler-
 How a compiler works, reading text files
