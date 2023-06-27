@@ -1,4 +1,4 @@
-# Project-IIT-Delhi
+# Special Projects-IIT-Delhi
 Here are some of the projects I have done. It highlights what skills and topics I learned while doing the project-
 ## Othello Simulator-
 Mini-Max Algorithm, Decision Making, Game theory
