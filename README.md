@@ -1,5 +1,5 @@
 # Special Projects-IIT-Delhi
-Here are some of the projects I have done. It highlights what skills and topics I learned while doing the project-
+Here are some of the projects I have done. It highlights what skills and topics I learned while doing the projects. Each folder inside contains the task pdf and also commented code which is done by me. 
 ## Othello Simulator-
 Mini-Max Algorithm, Decision Making, Game theory
 ## Snake and ladder simulator-
