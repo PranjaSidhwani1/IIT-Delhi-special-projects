@@ -4,7 +4,7 @@ Here are some of the projects I have done. It highlights what skills and topics 
 Mini-Max Algorithm, Decision Making, Game theory
 ## Snake and ladder simulator-
 Graphs, BFS, Distance between two nodes in BFS Tree 
-## Twitter Emoji Prediction
+## KAGGLE-Twitter Emoji Prediction
 LSTM, RNN, Word embedding, One hot encoding
 ## Poker Simulator-
 Heaps, mapping, constructive algorithm
